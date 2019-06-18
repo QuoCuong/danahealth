@@ -1,0 +1,10 @@
+.c-pointer {
+    cursor: pointer;
+}
+.prescription-images {
+    width: 100%;
+}
+.prescription-images img {
+    /* padding: 0 5px; */
+    max-width: calc(100% / 3.1);
+}
